@@ -5,6 +5,7 @@ import Login from '../views/Login.vue'
 import Solicitud from '../views/usuario/Solicitud.vue'
 import AdmDashboard from '../views/administrador/Dashboard.vue'
 import TecnicoDashboard from '../views/tecnico/Dashboard.vue'
+import Valoracion from '../views/Valoracion.vue'
 
 Vue.use(VueRouter)
 
@@ -33,6 +34,11 @@ const routes = [
     path: '/tecnico/dashboard',
     name: 'TecnicoDashboard',
     component: TecnicoDashboard
+  },
+  {
+    path: '/valoracion',
+    name: 'Valoracion',
+    component: Valoracion
   },
 ]
 

@@ -5,7 +5,8 @@
       <router-link to="/login">Login</router-link> | 
       <router-link to="/Solicitud">Solicitud</router-link> | 
       <router-link to="/admin/dashboard">Dashboard Adm</router-link> | 
-      <router-link to="/tecnico/dashboard">Dashboard Tecnico</router-link>
+      <router-link to="/tecnico/dashboard">Dashboard Tecnico</router-link> | 
+      <router-link to="/valoracion">Valoración</router-link>
     </div>
     <router-view />
   </div>

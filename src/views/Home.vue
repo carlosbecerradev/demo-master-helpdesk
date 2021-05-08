@@ -11,6 +11,7 @@
       <li>Técnico ATIENDE ticket de atención</li>
       <li>Sistema CAMBIA estado del ticket de atención y MUEVE al panel de "En proceso"</li>
       <li>Técnico puede TERMINAR o DELEGAR ticket de atención</li>
+      <li>Sitema SOLICITA valoración al usuario</li>
       <li>Administrador GESTIONA a técnicos</li>
     </ol>
   </div>
